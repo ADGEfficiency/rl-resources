@@ -20,6 +20,21 @@ For everything else (linear models, random forests etc)
 - [Elements of Statistical Learning - Trevor Hastie, Robert Tibshirani and Jerome Friedman](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 - [Pattern Recognition and Machine Learning - Christopher M. Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 
+## To get started coding
+
+Start out building simple algorithms, progressing to more complex:
+
+- dynamic programming
+- cross entropy method
+- DQN
+- REINFORCE
+- A2C
+- PPO
+
+Don't build an environment and agent at the same time!  You won't be sure where the problem is when debugging.
+
+Part of the learning process is gaining familiarity with environments.  [Cartpole](https://gym.openai.com/envs/CartPole-v0/), [Pendulum](https://github.com/openai/gym/wiki/Pendulum-v0) and [Mountain Car](https://github.com/openai/gym/wiki/MountainCar-v0) are good basic environments.  Cartpole has a discrete action space, Pendulum a continuous action space and Mountain Car offers a challenging exploration problem.  [Open AI gym](https://github.com/openai/gym) has high quality implementations of these basic environments along with support for Atari and Mujocco.
+
 ## Videos & lectures
 
 [The Long-term of AI & Temporal-Difference Learning (Richard Sutton - DeepMind)](https://www.youtube.com/watch?v=EeMCEQa85tw)
@@ -36,7 +51,11 @@ For everything else (linear models, random forests etc)
 
 [2017 NIPS David Silver Keynote - AlphaZero](https://www.youtube.com/watch?v=A3ekFcZ3KNw)
 
+[ICML 2017: Test of Time Award (Sylvain Gelly & David Silver)](https://www.youtube.com/watch?v=Bm7zah_LrmE)
+
 [A History of Reinforcement Learning - Prof. A.G. Barto](https://www.youtube.com/watch?v=ul6B2oFPNDM)
+
+[Reproducibility, Reusability, & Robustness in Deep Reinforcement Learning - Prof. Pineaue](https://www.youtube.com/watch?v=-0G98MYUtjI)
 
 ## Entire field overviews & courses
 
@@ -84,7 +103,7 @@ RL - Vlad Mnih](https://www.youtube.com/watch?v=bsuvM1jO-4w&t=1s)-
 
 [World Models](https://worldmodels.github.io/)
 
-## Cool code bases
+## Code bases
 
 Open AI gym - environments - [repo](https://github.com/openai/gym/tree/master/gym) - [paper](https://arxiv.org/abs/1606.01540)
 
