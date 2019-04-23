@@ -57,6 +57,8 @@ Part of the learning process is gaining familiarity with environments.  [Cartpol
 
 [Reproducibility, Reusability, & Robustness in Deep Reinforcement Learning - Prof. Pineaue](https://www.youtube.com/watch?v=-0G98MYUtjI)
 
+[The Power of Self-Learning Systems - Demis Hassabis](https://www.youtube.com/watch?v=3N9phq_yZP0)
+
 ## Entire field overviews & courses
 
 François-Lavet et. al (2018) An Introduction to Deep Reinforcement Learning - [paper](https://arxiv.org/pdf/1811.12560.pdf)
@@ -71,7 +73,7 @@ Practical RL - course in reinforcement learning in the wild - [repo](https://git
 
 ## Deep RL Bootcamp lectures
 
-2017 two day bootcamp hosted by Berkley.
+2017 two day bootcamp hosted by Berkley
 
 - [Lecture 1 - Motivation + Overview + Exact Solution Methods - Pieter Abbeel](https://www.youtube.com/watch?v=qaMdN6LS9rA)
 - [Lecture 2 - Sampling-based Approximations and Function Fitting - Yan (Rocky) Duan](https://www.youtube.com/watch?v=qO-HUo0LsO4)
@@ -96,6 +98,8 @@ RL - Vlad Mnih](https://www.youtube.com/watch?v=bsuvM1jO-4w&t=1s)-
 [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
 
 [Deep Deterministic Policy Gradients in TensorFlow](http://pemami4911.github.io/blog/2016/08/21/ddpg-rl.html)
+
+[Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
 
 [Maximum Entropy Policies in Reinforcement Learning & Everyday Life](https://medium.com/@awjuliani/maximum-entropy-policies-in-reinforcement-learning-everyday-life-f5a1cc18d32d)
 
