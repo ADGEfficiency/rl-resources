@@ -1,6 +1,4 @@
-UCL Lectures - David Silver (Head of Reinforcement Learning at DeepMind) - [slides](https://github.com/ADGEfficiency/dsr_rl/tree/master/literature/silver_lectures) - [lecture videos](https://www.youtube.com/watch?v=2pWv7GOvuf0)
-- David Silver is Head of reinforcement learning at DeepMind
-- 10 lectures
+UCL Lectures - David Silver (Head of Reinforcement Learning at DeepMind) - [slides](https://github.com/ADGEfficiency/dsr_rl/tree/master/literature/silver_lectures) - [10 lecture videos](https://www.youtube.com/watch?v=2pWv7GOvuf0)
 
 CS 294: Deep Reinforcement Learning, Fall 2017 - Sergey Levine - Berkley - [course materials](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/index.html) - [lecture videos](https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3)
 
