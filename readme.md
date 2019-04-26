@@ -4,8 +4,7 @@ Most of the content is spread into subject specific folders such as `alphago` an
 
 ## Textbooks and courses
 
-[Sutton & Barto - Reinforcement Learning: An Introduction - 2nd Edition](http://incompleteideas.net/book/the-book-2nd.html)
-- highly awaited second edition released in 2019
+[Sutton & Barto - Reinforcement Learning: An Introduction - 2nd Edition](http://incompleteideas.net/book/the-book-2nd.html) - highly awaited second edition released in 2019
 
 UCL Lectures - David Silver (Head of Reinforcement Learning at DeepMind) - [slides](https://github.com/ADGEfficiency/dsr_rl/tree/master/literature/silver_lectures) - [10 lecture videos](https://www.youtube.com/watch?v=2pWv7GOvuf0)
 
