@@ -2,7 +2,7 @@ This repository is my personal collection of reinforcement learning resources.  
 
 Most of the content is spread into subject specific folders such as `alphago` and `model-based`.  Below is some advice aimed at those new to reinforcement learning.
 
-## If you are starting out with reinforcement learning
+## To learn reinforcement learning in a supervised way
 
 [Sutton & Barto - Reinforcement Learning: An Introduction - 2nd Edition](http://incompleteideas.net/book/the-book-2nd.html)
 - highly awaited second edition released in 2019
@@ -11,7 +11,7 @@ UCL Lectures - David Silver (Head of Reinforcement Learning at DeepMind) - [slid
 
 Open AI Spinning Up in Deep Reinforcement Learning - [notes](https://spinningup.openai.com/en/latest/) - [lecture](https://www.youtube.com/watch?v=fdY7dt3ijgY)
 
-## To get started building reinforcement learning programs
+## To learn in a reinforcement learning way
 
 To train a reinforcement learning agent you need three things - an environment (look at [Open AI gym](https://github.com/openai/gym/tree/master/gym)), an agent (see below) and code to run the experiments.
 
