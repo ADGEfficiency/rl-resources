@@ -12,7 +12,7 @@ Open AI Spinning Up in Deep Reinforcement Learning - [notes](https://spinningup.
 
 ## Start coding
 
-To train a reinforcement learning agent you need three things - an environment (look at [Open AI gym](https://github.com/openai/gym/tree/master/gym)), an agent (see below) and code to run the experiments.
+To train a reinforcement learning agent you need three things - an environment ([look at Open AI gym](https://github.com/openai/gym)), an agent and code to run the experiments.
 
 Start out building simple agents and code to run experiments.  A list of agents to work through is given below:
 
@@ -23,6 +23,9 @@ Start out building simple agents and code to run experiments.  A list of agents 
 - A2C
 - PPO
 
-Don't build an environment and agent at the same time!  You won't be sure where the problem is when debugging.
+Don't build an environment and agent at the same time!  You won't be sure where the problem is when debugging.  Run experiments over multiple random seeds, and expect to see variance in learning across different random seeds.
 
-Part of the learning process is gaining familiarity with environments.  [Cartpole](https://gym.openai.com/envs/CartPole-v0/), [Pendulum](https://github.com/openai/gym/wiki/Pendulum-v0) and [Mountain Car](https://github.com/openai/gym/wiki/MountainCar-v0) are good basic environments.  Cartpole has a discrete action space, Pendulum a continuous action space and Mountain Car offers a challenging exploration problem.  [Open AI gym](https://github.com/openai/gym) has high quality implementations of these basic environments along with support for Atari and Mujocco.
+Part of the learning process is gaining familiarity with how quickly an agent should learn on a toy environment.  Three useful environments are:
+- [Cartpole](https://gym.openai.com/envs/CartPole-v0/) - discrete action space
+- [Pendulum](https://gym.openai.com/envs/Pendulum-v0/) - continuous action space
+- [MountainCar](https://gym.openai.com/envs/MountainCar-v0/) - difficult exploration problem
