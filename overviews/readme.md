@@ -4,7 +4,11 @@ Open AI Spinning Up in Deep Reinforcement Learning - [notes](https://spinningup.
 
 [An Outsider's Tour of Reinforcement Learning - Ben Recht](http://www.argmin.net/2018/06/25/outsider-rl/)
 
+[Tutorial: Introduction to Reinforcement Learning with Function Approximation - Rich Sutton (youtube)](https://www.youtube.com/watch?v=Fsh1qMTg1xI)
+
 [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
+
+[The Promise of Hierarchical Reinforcement Learning - The Gradient (blog post)](https://thegradient.pub/the-promise-of-hierarchical-reinforcement-learning/)
 
 [The Long-term of AI & Temporal-Difference Learning (Richard Sutton - DeepMind)](https://www.youtube.com/watch?v=EeMCEQa85tw)
 
