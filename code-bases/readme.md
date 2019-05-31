@@ -4,6 +4,8 @@ Dopamine - Rainbow implementation - [github](https://github.com/google/dopamine)
 
 Open AI baselines - agents - [repo](https://github.com/openai/baselines)
 
+minimalRL - agents to solve CartPole-v1, pytorch based - [repo](https://github.com/seungeunrho/minimalRL)
+
 Berkley's rllab - agents & environments - [repo](https://github.com/rll/rllab)
 
 [RLenv.directory](https://rlenv.directory/)

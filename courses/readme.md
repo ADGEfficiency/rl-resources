@@ -8,6 +8,16 @@ A (Long) Peek into Reinforcement Learning - [blog post](https://lilianweng.githu
 
 Practical RL - course in reinforcement learning in the wild - [repo](https://github.com/yandexdataschool/Practical_RL)
 
+CS234 Reinforcement Learning - Stanford [ Winter 2019 youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8U) 
+
+CS885 Reinforcement Learning - University of Waterloo - [spring 2018 lectures](https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc) - [course homepage](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/schedule.html)
+
+Advanced Deep Learning and Reinforcement Learning course taught at UCL in partnership with Deepmind [github](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning)
+
+[simoninithomas.github.io/Deep_reinforcement_learning_Course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
+
+[MIT 6.S091: Introduction to Deep Reinforcement Learning (Deep RL) - Lex Fridman](https://www.youtube.com/watch?v=zR11FLZ-O9M)
+
 ## 2017 Deep RL Bootcamp lectures
 
 Two day bootcamp hosted by Berkley
