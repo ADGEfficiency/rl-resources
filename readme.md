@@ -1,4 +1,4 @@
-This repository is my personal collection of reinforcement learning resources.  If you like this check out [ml-resources](https://github.com/ADGEfficiency/ml-resources).
+This repository is my personal collection of reinforcement learning resources.  If you like this check out [ml-resources](https://github.com/ADGEfficiency/ml-resources), [programming resources](https://github.com/ADGEfficiency/programming-resources) and [rl-course](https://github.com/ADGEfficiency/rl-course).
 
 Most of the content is in subject folders such as `alphago` and `model-based`.  Below is advice and recommended resources for those new to reinforcement learning.
 
