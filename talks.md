@@ -1,5 +1,7 @@
 [Tutorial: Introduction to Reinforcement Learning with Function Approximation - Decemberr 2015 - Rich Sutton](https://www.youtube.com/watch?v=Fsh1qMTg1xI)
 
+[On The Hardness of Reinforcement Learning With Value-Function Approximation](https://www.youtube.com/watch?v=SjO386Mksa0)
+
 [Reinforcement Learning on Hundreds of Thousands of Cores - Henrique Ponde de Oliveira Pinto - Open AI](https://www.youtube.com/watch?v=ui4F_A46wN0) - scaling the Open AI DOTA agents
 
 DOTA

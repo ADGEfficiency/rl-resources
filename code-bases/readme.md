@@ -4,6 +4,8 @@ Dopamine - Rainbow implementation - [github](https://github.com/google/dopamine)
 
 Open AI baselines - agents - [repo](https://github.com/openai/baselines)
 
+Huskarl - agents - [github](https://github.com/danaugrs/huskarl)
+
 minimalRL - agents to solve CartPole-v1, pytorch based - [repo](https://github.com/seungeunrho/minimalRL)
 
 Berkley's rllab - agents & environments - [repo](https://github.com/rll/rllab)
@@ -15,6 +17,8 @@ tf-agents - [github](https://github.com/tensorflow/agents) - [Google I/O 2019 ta
 Intel's coach - agents & environments - [repo](https://github.com/NervanaSystems/coach) - [blog post](https://ai.intel.com/introducing-reinforcement-learning-coach-0-10-0/)
 
 Unity - 3D environments - [github](https://github.com/Unity-Technologies/ml-agents) - [paper](https://arxiv.org/pdf/1809.02627.pdf)
+
+Animal-AI Olympics - [github](https://github.com/beyretb/AnimalAI-Olympics)
 
 Holodeck - Unity 3D environments - [github](https://github.com/byu-pccl/holodeck-engine) - [blog post](https://pcc.cs.byu.edu/2018/10/04/introducing-holodeck/)
 
