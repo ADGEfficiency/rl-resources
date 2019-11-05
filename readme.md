@@ -10,7 +10,7 @@ UCL Lectures - David Silver (Head of Reinforcement Learning at DeepMind) - [slid
 
 Open AI Spinning Up in Deep Reinforcement Learning - [notes](https://spinningup.openai.com/en/latest/) - [lecture](https://www.youtube.com/watch?v=fdY7dt3ijgY)
 
-## Start coding
+## Getting started coding
 
 To train a reinforcement learning agent you need three things - an environment ([look at Open AI gym](https://gym.openai.com/)), an agent and code to run the experiments.
 
@@ -28,3 +28,5 @@ Start out building simple agents and code to run experiments.  A list of agents 
 - PPO
 
 Don't build an environment and agent at the same time!  You won't be sure where the problem is when debugging.  Run experiments over multiple random seeds, and expect to see variance in learning.
+
+Be aware that reinforcement learning is both sample inefficient and has variance across random seeds.  The combination of these two means that training reinforcement learning agents is computationally expensive.
