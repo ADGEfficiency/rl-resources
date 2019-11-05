@@ -10,6 +10,10 @@ minimalRL - agents to solve CartPole-v1, pytorch based - [repo](https://github.c
 
 Berkley's rllab - agents & environments - [repo](https://github.com/rll/rllab)
 
+[openai/roboschool](https://github.com/openai/roboschool) - Open-source software for robot simulation, integrated with OpenAI Gym. - [blog](https://openai.com/blog/roboschool/)
+
+[stepjam/RLBench](https://github.com/stepjam/RLBench) - [paper](https://arxiv.org/abs/1909.12271) - 100 unique, hand-design tasks, tailored to facilitate research in a number of vision-guided manipulation research areas, including: reinforcement learning, imitation learning, multi-task learning, geometric computer vision, and in particular, few-shot learning
+
 [RLenv.directory](https://rlenv.directory/)
 
 tf-agents - [github](https://github.com/tensorflow/agents) - [Google I/O 2019 talk](https://www.youtube.com/watch?v=tAOApRQAgpc)
