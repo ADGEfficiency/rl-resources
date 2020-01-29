@@ -27,3 +27,4 @@ Open AI Spinning Up in Deep Reinforcement Learning - [notes](https://spinningup.
 [Reproducibility, Reusability, & Robustness in Deep Reinforcement Learning - Prof. Pineaue](https://www.youtube.com/watch?v=-0G98MYUtjI)
 
 [The Power of Self-Learning Systems - Demis Hassabis](https://www.youtube.com/watch?v=3N9phq_yZP0)
+

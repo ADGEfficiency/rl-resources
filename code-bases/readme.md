@@ -29,3 +29,5 @@ Holodeck - Unity 3D environments - [github](https://github.com/byu-pccl/holodeck
 [Parallel Monte-Carlo tree search to tackle the problem of long-term path planning under uncertainty for offshore sailing](https://github.com/PBarde/IBoat-PMCTS)
 
 Horizion - Facebook platform for applied RL - [github](https://github.com/facebookresearch/Horizon) - [paper](https://arxiv.org/abs/1811.00260) - [blog post](https://code.fb.com/ml-applications/horizon/)
+
+Google Research Football Environment - [paper](https://arxiv.org/abs/1907.11180) - [github](https://github.com/google-research/football)
