@@ -14,6 +14,14 @@ Literature and resources for 2018 paper *World Models* - David Ha, Jürgen Schmi
 
 [Tutorial - What is a variational autoencoder? - JAAN ALTOSAAR](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
 
+[The Reparameterization Trick - Gregory Gundersen](http://gregorygundersen.com/blog/2018/04/29/reparameterization/)
+
+[Intuitively Understanding Variational Autoencoders - Irhum Shafkat](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf)
+
+[Variational Inference for Machine Learning - Shakir Mohamed](https://www.shakirm.com/papers/VITutorial.pdf)
+
+[Variational autoencoders - Deep Generative Models](https://deepgenerativemodels.github.io/notes/vae/)
+
 ## Memory
 
 [Mixture Density Networks with TensorFlow](http://blog.otoro.net/2015/11/24/mixture-density-networks-with-tensorflow/)
@@ -26,11 +34,13 @@ Literature and resources for 2018 paper *World Models* - David Ha, Jürgen Schmi
 
 [CMA-ES - Wikipedia](https://en.wikipedia.org/wiki/CMA-ES)
 
-[A Visual Guide to Evolution Strategies](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/).
+[A Visual Guide to Evolution Strategies - David Ha](http://blog.otoro.net/2017/10/29/visual-evolution-strategies/).
 
-[Evolving Stable Strategies](http://blog.otoro.net/2017/11/12/evolving-stable-strategies/).
+[Evolving Stable Strategies - David Ha](http://blog.otoro.net/2017/11/12/evolving-stable-strategies/).
 
 [hardmaru/estool](https://github.com/hardmaru/estool)
+
+[Evolution Strategies - Lilian Weng](https://lilianweng.github.io/lil-log/2019/09/05/evolution-strategies.html)
 
 [The CMA Evolution Strategy](http://cma.gforge.inria.fr/)
 
@@ -44,23 +54,4 @@ Literature and resources for 2018 paper *World Models* - David Ha, Jürgen Schmi
 
 [pycma](https://github.com/CMA-ES/pycma)
 
-## more VAE
-
-http://gregorygundersen.com/blog/2018/04/29/reparameterization/
-
-https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73 (bit on reparameterization)
-
-[Intuitively Understanding Variational Autoencoders - Irhum Shafkat](https://towardsdatascience.com/intuitively-understanding-variational-autoencoders-1bfe67eb5daf)
-
-https://jaan.io/what-is-variational-autoencoder-vae-tutorial/ (point out in referesces!)
-
-https://stats.stackexchange.com/questions/288451/why-is-mean-squared-error-the-cross-entropy-between-the-empirical-distribution-a/288453
-
-https://arxiv.org/pdf/1907.08956.pdf
-
-https://www.shakirm.com/papers/VITutorial.pdf
-
-https://stats.stackexchange.com/questions/288451/why-is-mean-squared-error-the-cross-entropy-between-the-empirical-distribution-a/288453
-
-https://deepgenerativemodels.github.io/notes/vae/
-https://en.wikipedia.org/wiki/Discriminative_model
+[Evolution Strategies](https://lilianweng.github.io/lil-log/2019/09/05/evolution-strategies.html)
