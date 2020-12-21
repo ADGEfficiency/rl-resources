@@ -1,5 +1,7 @@
 UCL Lectures - David Silver (Head of Reinforcement Learning at DeepMind) - [slides](https://github.com/ADGEfficiency/dsr_rl/tree/master/literature/silver_lectures) - [10 lecture videos](https://www.youtube.com/watch?v=2pWv7GOvuf0)
 
+Reinforcement Learning Specialization - University of Alberta - [coursera](https://www.coursera.org/specializations/reinforcement-learning)
+
 CS 294: Deep Reinforcement Learning, Fall 2017 - Sergey Levine - Berkley - [course materials](http://rail.eecs.berkeley.edu/deeprlcourse-fa17/index.html) - [lecture videos](https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3)
 
 CS 598: Statistical Reinforcement Learning - Nan Jiang - Illinois - [course materials](http://nanjiang.cs.illinois.edu/cs598/)
@@ -10,6 +12,8 @@ Practical RL - course in reinforcement learning in the wild - [repo](https://git
 
 CS234 Reinforcement Learning - Stanford [ Winter 2019 youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8U) 
 
+UC Berkeley CS 285: Deep Reinforcement Learning, Fall 2020 - [lecture videos](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
+
 CS885 Reinforcement Learning - University of Waterloo - [spring 2018 lectures](https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc) - [course homepage](https://cs.uwaterloo.ca/~ppoupart/teaching/cs885-spring18/schedule.html)
 
 Advanced Deep Learning and Reinforcement Learning course taught at UCL in partnership with Deepmind [github](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning)
@@ -17,6 +21,7 @@ Advanced Deep Learning and Reinforcement Learning course taught at UCL in partne
 [simoninithomas.github.io/Deep_reinforcement_learning_Course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
 
 [MIT 6.S091: Introduction to Deep Reinforcement Learning (Deep RL) - Lex Fridman](https://www.youtube.com/watch?v=zR11FLZ-O9M)
+
 
 ## 2017 Deep RL Bootcamp lectures
 

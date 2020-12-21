@@ -2,6 +2,8 @@
 
 <a style="font-size: 1rem;" href="https://en.wikipedia.org/wiki/AlphaGo">Alpha Go - Wikipedia</a>
 
+AlphaZero - Mastering Games Without Human Knowledge - David Silver - [youtube](https://www.youtube.com/watch?v=Wujy7OzvdJk)
+
 [AlphaGo Zero: Learning from scratch - DeepMind (blog post)](https://deepmind.com/blog/alphago-zero-learning-scratch/)
 
 [AlphaGo, in context](https://medium.com/@karpathy/alphago-in-context-c47718cb95a5)
@@ -11,4 +13,6 @@
 [ICML 2017: Test of Time Award (Sylvain Gelly & David Silver)](https://www.youtube.com/watch?v=Bm7zah_LrmE)
 
 [The Power of Self-Learning Systems - Demis Hassabis](https://www.youtube.com/watch?v=3N9phq_yZP0)
+
+[AlphaStar: Mastering the Game of StarCraft II ](https://slideslive.com/38917653/alphastar-mastering-the-game-of-starcraft-ii)
 

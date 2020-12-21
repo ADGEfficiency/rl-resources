@@ -3,5 +3,7 @@
 Google Brain SimPLe: Complete Model-Based Reinforcement Learning for Atari 
 - [Synced blog post](https://medium.com/syncedreview/google-brain-simple-complete-model-based-reinforcement-learning-for-atari-b350a960921c)
 
+[When to Trust Your Model: Model-Based Policy Optimization](https://people.eecs.berkeley.edu/~janner/mbpo/)
+
 
 
