@@ -26,8 +26,8 @@ Start out building simple agents and code to run experiments.  A list of agents 
 - cross entropy method
 - DQN
 - REINFORCE
-- A2C
 - PPO
+- SAC
 
 Don't build an environment and agent at the same time!  You won't be sure where the problem is when debugging.  Run experiments over multiple random seeds, and expect to see variance in learning.
 
