@@ -1,5 +1,7 @@
 Open AI gym - environments - [repo](https://github.com/openai/gym/tree/master/gym) - [paper](https://arxiv.org/abs/1606.01540) - [environments](https://github.com/openai/gym/blob/master/docs/environments.md#pybullet-robotics-environments)
 
+[openai/procgen](https://github.com/openai/procgen) - 16 simple-to-use procedurally-generated gym environments which provide a direct measure of how quickly a reinforcement learning agent learns generalizable skills
+
 [Curt-Park/rainbow-is-all-you-need](https://github.com/Curt-Park/rainbow-is-all-you-need)
 
 Dopamine - Rainbow implementation - [github](https://github.com/google/dopamine) - [blog post](https://github.com/google/dopamine)
