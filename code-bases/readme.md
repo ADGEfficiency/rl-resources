@@ -1,3 +1,7 @@
+CleanRl - [github](https://github.com/vwxyzjn/cleanrl) - [docs](https://docs.cleanrl.dev/)
+
+[google-research/muzero](https://github.com/google-research/google-research/tree/master/muzero) - implementation of the Pseudocode description of the MuZero algorithm (https://arxiv.org/src/1911.08265v1/anc/pseudocode.py).
+
 Open AI gym - environments - [repo](https://github.com/openai/gym/tree/master/gym) - [paper](https://arxiv.org/abs/1606.01540) - [environments](https://github.com/openai/gym/blob/master/docs/environments.md#pybullet-robotics-environments)
 
 [openai/procgen](https://github.com/openai/procgen) - 16 simple-to-use procedurally-generated gym environments which provide a direct measure of how quickly a reinforcement learning agent learns generalizable skills

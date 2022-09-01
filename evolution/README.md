@@ -1,3 +1,16 @@
+[The Surprising Creativity of Digital Evolution](https://arxiv.org/pdf/1803.03453.pdf)
+
+The process of evolution is an algorithmic process that transcends the substrate in which it occurs.
+
+Independent of its physical medium, evolution can happen wherever replication, variation, and selection intersect [16, 17]. Thus, evolution can be instantiated digitally [18, 19], as a computer program, either to study evolution experimentally or to solve engineering challenges through directed digital breeding
+
+As noted by Daniel Dennett, “evolution will occur
+whenever and wherever three conditions are met: replication, variation (mutation), and differential fitness
+(competition)” [34]; no particular molecule (e.g. DNA or RNA) or substrate (e.g. specific physical
+embodiment) is required.
+
+---
+
 1. Initial population
 2. Performance test
 3. Random mutation & combination
