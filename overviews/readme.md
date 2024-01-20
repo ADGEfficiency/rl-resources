@@ -1,3 +1,5 @@
+[Exploration Strategies in Deep Reinforcement Learning | Lil'Log](https://lilianweng.github.io/posts/2020-06-07-exploration-drl/)
+
 Open AI Spinning Up in Deep Reinforcement Learning - [notes](https://spinningup.openai.com/en/latest/) - [lecture](https://www.youtube.com/watch?v=fdY7dt3ijgY)
 
 [ICML 2018: Tutorial Session: Optimization Perspectives on Learning to Control - Ben Recht](https://www.youtube.com/watch?v=hYw_qhLUE0o)
@@ -12,9 +14,9 @@ Open AI Spinning Up in Deep Reinforcement Learning - [notes](https://spinningup.
 
 [The Long-term of AI & Temporal-Difference Learning (Richard Sutton - DeepMind)](https://www.youtube.com/watch?v=EeMCEQa85tw)
 
-[Deep Reinforcement Learning (John Schulman - Open AI & Berkley)](https://www.youtube.com/watch?v=PtAIh9KSnjo)
+[Deep Reinforcement Learning (John Schulman - Open AI & Berkeley)](https://www.youtube.com/watch?v=PtAIh9KSnjo)
 
-[Deep Reinforcement Learning (Pieter Abbeel - Open AI & Berkley)](https://www.youtube.com/watch?v=ID150Tl-MMw)
+[Deep Reinforcement Learning (Pieter Abbeel - Open AI & Berkeley)](https://www.youtube.com/watch?v=ID150Tl-MMw)
 
 [Deep Reinforcement Learning (David Silver - DeepMind & UCL)](https://www.youtube.com/watch?v=M5a6HasTHs4)
 
@@ -27,4 +29,3 @@ Open AI Spinning Up in Deep Reinforcement Learning - [notes](https://spinningup.
 [Reproducibility, Reusability, & Robustness in Deep Reinforcement Learning - Prof. Pineaue](https://www.youtube.com/watch?v=-0G98MYUtjI)
 
 [The Power of Self-Learning Systems - Demis Hassabis](https://www.youtube.com/watch?v=3N9phq_yZP0)
-

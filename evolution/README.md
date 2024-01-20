@@ -1,3 +1,5 @@
+[Mimicking Evolution with Reinforcement Learning - João Abrantes](https://joao-abrantes.com/posts/mimicking-evolution-with-reinforcement-learning/)
+
 [The Surprising Creativity of Digital Evolution](https://arxiv.org/pdf/1803.03453.pdf)
 
 The process of evolution is an algorithmic process that transcends the substrate in which it occurs.

@@ -1,3 +1,7 @@
+[UM-ARM-Lab/pytorch_mppi: Model Predictive Path Integral (MPPI) with approximate dynamics implemented in pytorch](https://github.com/UM-ARM-Lab/pytorch_mppi)
+
+[Reinforcement Learning Tips and Tricks — Stable Baselines3 2.3.0a1 documentation](https://stable-baselines3.readthedocs.io/en/master/guide/rl_tips.html)
+
 CleanRl - [github](https://github.com/vwxyzjn/cleanrl) - [docs](https://docs.cleanrl.dev/)
 
 [google-research/muzero](https://github.com/google-research/google-research/tree/master/muzero) - implementation of the Pseudocode description of the MuZero algorithm (https://arxiv.org/src/1911.08265v1/anc/pseudocode.py).
