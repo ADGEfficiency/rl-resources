@@ -1,3 +1,5 @@
+[A (Long) Peek into Reinforcement Learning | Lil'Log](https://lilianweng.github.io/posts/2018-02-19-rl-overview/)
+
 [Eighteen Months of RL Research at Google Brain in Montreal - Marc G. Bellemare](http://www.marcgbellemare.info/blog/eighteen-months-of-rl-research-at-google-brain-in-montreal/)
 
 [Dynamic Programming - Giancarlo Frison](https://gfrison.com/2019/06/18/dynamic-programming/)

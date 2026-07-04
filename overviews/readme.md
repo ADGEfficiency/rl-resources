@@ -1,3 +1,13 @@
+[What are the current state-of-the-art algorithms? : r/reinforcementlearning](https://www.reddit.com/r/reinforcementlearning/comments/10h4gms/what_are_the_current_stateoftheart_algorithms/)
+
+In the DQN world it's probably: MEME (Human-level Atari 200x faster, Kapturowski et al., 2022)
+
+The paper line I would follow to understand everything there is: DQN -> Rainbow -> R2D2 -> NeverGiveUp -> Agent57 -> MEME
+
+---
+
+DreamerV3 is definitely not simple and also computationally heavy. PPO for on-policy and SAC for off-policy are simple and don't need too much compute. Even though I would use TQC for off-policy. It improves quite a bit over SAC and isn't more expensive in terms of compute. 
+
 [Exploration Strategies in Deep Reinforcement Learning | Lil'Log](https://lilianweng.github.io/posts/2020-06-07-exploration-drl/)
 
 Open AI Spinning Up in Deep Reinforcement Learning - [notes](https://spinningup.openai.com/en/latest/) - [lecture](https://www.youtube.com/watch?v=fdY7dt3ijgY)
@@ -29,3 +39,5 @@ Open AI Spinning Up in Deep Reinforcement Learning - [notes](https://spinningup.
 [Reproducibility, Reusability, & Robustness in Deep Reinforcement Learning - Prof. Pineaue](https://www.youtube.com/watch?v=-0G98MYUtjI)
 
 [The Power of Self-Learning Systems - Demis Hassabis](https://www.youtube.com/watch?v=3N9phq_yZP0)
+
+[RL-Picker - Reinforcement-learning algorithm picker](https://rl-picker.github.io/)

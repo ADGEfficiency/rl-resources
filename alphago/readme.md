@@ -16,3 +16,6 @@ AlphaZero - Mastering Games Without Human Knowledge - David Silver - [youtube](h
 
 [AlphaStar: Mastering the Game of StarCraft II ](https://slideslive.com/38917653/alphastar-mastering-the-game-of-starcraft-ii)
 
+[[2211.00241] Adversarial Policies Beat Superhuman Go AIs](https://arxiv.org/abs/2211.00241)
+
+Magnus Carlsen using uncommon openings to push opponents into unfamiliar territory

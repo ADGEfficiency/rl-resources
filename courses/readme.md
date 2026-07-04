@@ -1,3 +1,7 @@
+[Welcome - Deep RL Course](https://deeprlcourse.github.io/) - Spring 2025 offering of Deep Reinforcement Learning course at Sharif University of Technology!
+
+[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) - Mathematical Foundations of Reinforcement Learning.
+
 UCL Lectures - David Silver (Head of Reinforcement Learning at DeepMind) - [slides](https://github.com/ADGEfficiency/dsr_rl/tree/master/literature/silver_lectures) - [10 lecture videos](https://www.youtube.com/watch?v=2pWv7GOvuf0)
 
 Reinforcement Learning Specialization - University of Alberta - [coursera](https://www.coursera.org/specializations/reinforcement-learning)
@@ -21,7 +25,6 @@ Advanced Deep Learning and Reinforcement Learning course taught at UCL in partne
 [simoninithomas.github.io/Deep_reinforcement_learning_Course](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
 
 [MIT 6.S091: Introduction to Deep Reinforcement Learning (Deep RL) - Lex Fridman](https://www.youtube.com/watch?v=zR11FLZ-O9M)
-
 
 ## 2017 Deep RL Bootcamp lectures
 

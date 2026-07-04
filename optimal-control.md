@@ -1,3 +1,5 @@
+[How is reinforcement learning better than conventional control techniques for robotics?](https://www.reddit.com/r/reinforcementlearning/comments/z1ttxb/how_is_reinforcement_learning_better_than/)
+
 [Benjamin Recht: Optimization Perspectives on Learning to Control (ICML 2018 tutorial)](https://youtu.be/nF2-39a29Pw)
 
 [The statistical foundations of learning to control - Benjamin Recht](https://youtu.be/gK1zHeLf8U0)
