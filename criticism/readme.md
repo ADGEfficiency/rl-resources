@@ -16,3 +16,15 @@
 - Existing research shows promise in this direction
 
 [Machine Learning: The Great Stagnation - by Mark Saroufim](https://marksaroufim.substack.com/p/machine-learning-the-great-stagnation)
+
+## Notes on the Foundational Flaw
+
+Prior experience and high level instruction are completely missing from model free, tabula rasa RL.
+
+Criticisms:
+- DQN doesn't achieve superhuman play at all games
+- [Kaplan et. al 2017 Beating Atari with Natural Language Guided Reinforcement Learning](https://arxiv.org/abs/1704.05539)
+- Sample efficiency
+- AlphaGo had convenient factors (only challenge was huge branching factor)
+
+"How to fix RL" is just a list of papers really - transfer learning, metalearning etc.

@@ -15,6 +15,12 @@ Open AI Spinning Up
 - [Spinning Up as a Deep RL Researcher](https://spinningup.openai.com/en/latest/spinningup/spinningup.html)
 - [Key Papers in Deep RL](https://spinningup.openai.com/en/latest/spinningup/keypapers.html#id105)
 
+Prerequisites for a deep RL researcher:
+- **Maths** - random variables, Bayes', chain rule of probability, expectations, standard deviations, importance sampling, gradients, Taylor series expansions
+- **Deep learning** - GRU, ResNets, attention, normalization (batch/layer/weight), optimizers, reparameterization trick
+
+Don't overfit to papers or existing implementations. Ten random seeds to be thorough.
+
 Andrej Karpathy - [gitpages blog](http://karpathy.github.io/) - [medium](https://medium.com/@karpathy)
 - [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
 - [AlphaGo, in context](https://medium.com/@karpathy/alphago-in-context-c47718cb95a5)
@@ -26,3 +32,7 @@ Andrej Karpathy - [gitpages blog](http://karpathy.github.io/) - [medium](https:/
 
 [argmin - Ben Recht](https://www.argmin.net/)
 - [An Outsider's Tour of Reinforcement Learning](https://www.argmin.net/2018/06/25/outsider-rl/)
+
+[Dissecting Reinforcement Learning - blog post series](https://mpatacchiola.github.io/blog/2016/12/09/dissecting-reinforcement-learning.html)
+
+[Inverse Reinforcement Learning - blog post series](https://thinkingwires.com/posts/2018-02-13-irl-tutorial-1.html)

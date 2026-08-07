@@ -41,3 +41,51 @@ Open AI Spinning Up in Deep Reinforcement Learning - [notes](https://spinningup.
 [The Power of Self-Learning Systems - Demis Hassabis](https://www.youtube.com/watch?v=3N9phq_yZP0)
 
 [RL-Picker - Reinforcement-learning algorithm picker](https://rl-picker.github.io/)
+
+## Fundamentals
+
+<!-- From Sutton Introduction to RL, Second Edition -->
+
+**Core definition**: Learning what to do to maximize a reward signal
+- Map situations to actions
+- Actions affect the future
+
+Two most important features of reinforcement learning:
+1. **Trial & error search**
+2. **Delayed reward**
+
+RL = computational approach to learning through action - the whole problem of goal-directed agent interaction with environment
+
+Optimal control of incompletely known MDPs - framework from dynamical systems theory
+
+Contrast with supervised learning:
+- Want generalization
+- Might not be able to get it if don't have examples of actions
+- Uncharted territory is often the value part
+- Explore/exploit only in RL
+
+## Deep RL Framing
+
+<!-- From Schulman & Abbeel Deep RL lectures -->
+
+Deep RL = using neural networks as function approximators. Not obvious what to approximate (policy, value function, or a model of the env / dynamics model).
+
+Applications: robotics, smart contracts, business operations (inventory management), sequential/structured prediction, recommendation systems. A stateful env means you need to take many actions to get into the right state = have to think ahead (not just greedy for the next time step).
+
+**ML vs RL**: don't have access to the function you are trying to optimize, must query it through interaction with a stateful world (input to agent depends on previous actions). Deep RL won't work out of the box - lots of knobs to tune.
+
+If the problem has a small number of parameters and you have a simulator, derivative-free optimization methods (simulated annealing, cross entropy method, SPSA) are likely to be better and will work out of the box. Operations research has a well-developed set of feature-engineering techniques for these problems.
+
+**MDP formalism**: maximize expected cumulative reward. Episodic setting = act until terminal state. Policy = function used to determine actions - stochastic (a conditional probability distribution) or deterministic. For a discrete action space the policy network outputs a vector of probabilities; for continuous, it outputs the mean and diagonal covariance of a Gaussian (essentially regression).
+
+**Fundamentals (Sutton & Barto)**
+
+Core definition: learning what to do to maximize a reward signal - map situations to actions, where actions affect the future
+
+Two most important features of reinforcement learning:
+1. Trial & error search
+2. Delayed reward
+
+RL = optimal control of incompletely known MDPs - framework from dynamical systems theory
+
+Contrast with supervised learning - might not have examples of actions, and uncharted territory is often the valuable part. Explore/exploit only exists in RL
