@@ -12,6 +12,8 @@ UCL Lectures - David Silver (Head of Reinforcement Learning at DeepMind) - [slid
 
 Open AI Spinning Up in Deep Reinforcement Learning - [notes](https://spinningup.openai.com/en/latest/) - [lecture](https://www.youtube.com/watch?v=fdY7dt3ijgY)
 
+[Reinforcement Learning: A Six Part Series](https://youtu.be/NFo9v_yKQXA) (by Mutual Information)
+
 ## Getting Started Coding
 
 To train a reinforcement learning agent you need three things - an environment ([look at Open AI gym](https://gym.openai.com/)), an agent and code to run the experiments.
